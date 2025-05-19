@@ -41,7 +41,7 @@ This project showcases the implementation of a chat application using CometChat 
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Mohit138928/cometchat-app.git
 
 # Navigate to project directory
 cd cometchat-app
