@@ -198,15 +198,15 @@ CometChat.addMessageListener(
 ## Screenshots
 
 ### Chat Interface
-![Chat Interface]()
+![Chat Interface](./screenshots/call_interface.png)
 *Main chat interface showing conversations and messages*
 
 ### Group Chat
-![Group Chat]()
+![Group Chat](./screenshots/group_chat.png)
 *Group chat functionality with member list*
 
 ### Call Interface
-![Call Interface]()
+![Call Interface](./screenshots/call_interface.png)
 *Voice and video calling interface*
 
 ## Contributing
